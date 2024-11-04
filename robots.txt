@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ataniomu.github.io/YnA/sitemap_index.txt
+Sitemap: https://ataniomu.github.io/dPI/sitemap_index.txt
+Sitemap: https://ataniomu.github.io/fGC/sitemap_index.txt
+Sitemap: https://ataniomu.github.io/rlq/sitemap_index.txt
